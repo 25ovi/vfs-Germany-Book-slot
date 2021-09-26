@@ -12,7 +12,7 @@ This will run the script on the chrome dev console and alert if the slot is avai
 
 ![image](https://user-images.githubusercontent.com/1682457/134799257-dc4934c0-0070-4f96-a155-aa525accd28e.png)
 
-**4. Paste the Javascript code in the console**
+**4. Paste the Javascript code in the console from bookVisaSlot.js file**
 ![image](https://user-images.githubusercontent.com/1682457/134799286-d95842cc-b347-44a7-9856-68240eb02689.png)
 
 **5. Demo**
