@@ -1,7 +1,7 @@
 # vfs-Germany-Book-slot
 This is very well known that it is painful for people who want to book a visa slot for Germany as there are no slots most of the time. This JS script automates the task of checking the slots manually. If you find it helpful, star and fork it.
 
-This will run the script on the chrome dev console and alert if the slot is available
+This will run the script on the chrome dev console and alert if the slot for blue card is available. You can modify the selectors required for your category in the code.
 
 **1. Login to https://visa.vfsglobal.com/ind/en/deu/login**
 ![image](https://user-images.githubusercontent.com/1682457/134799228-33ff99fc-20ab-436f-a2b7-25410e9e5503.png)
