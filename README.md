@@ -1,4 +1,6 @@
 # vfs-Germany-Book-slot
+This is painful for people who want to book a visa slot for Germany. This automates the task of checking the slots manually. If you find it helpful, star and fork it.
+
 This will run the script on the chrome dev console and alert if the slot is available
 
 **1. Login to https://visa.vfsglobal.com/ind/en/deu/login**
